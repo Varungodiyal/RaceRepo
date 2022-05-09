@@ -1,7 +1,7 @@
 {
-  "name": "Data Manipulation",
+  "name": "ExcelAutomation",
   "description": "Blank Process",
-  "main": "Manipulation Methods.xaml",
+  "main": "Get Table Range.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
@@ -42,8 +42,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Manipulation Methods.xaml",
-      "uniqueId": "befe4361-98b0-4942-86ff-409d768409ff",
+      "filePath": "Get Table Range.xaml",
+      "uniqueId": "48efab2b-1207-4a69-b15f-563cd97ed5c9",
       "input": [],
       "output": []
     }
